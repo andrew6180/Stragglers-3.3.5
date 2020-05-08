@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: !Stragglers
+## Notes: Find out what addons are slowing you down.
+## Author: dualcoding
+
+#SavedVariables: StragglersDB
+
+callers.lua
+namespaces.lua
+times.lua
+ui_utility.lua
+ui_data.lua
+ui.lua
+eventhandlers.lua
